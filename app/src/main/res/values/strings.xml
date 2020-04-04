@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="todo">TODO</string>
+    <string name="cross">cross</string>
+    <string name="board">board</string>
+    <string name="v">v</string>
+    <string name="x_turn">X\'s turn ! Tap to play ...</string>
+    <string name="Os_turn">O\'s turn ! Tap to play ...</string>
+</resources>
+
+
+
